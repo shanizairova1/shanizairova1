@@ -1,0 +1,33 @@
+body{background-color: #00BFFF;
+	line-height: 85%;
+	background-size: 100%;
+	font-family: Calibri;
+}
+h1,h2{
+	
+	line-height: 0.5%;
+	font-size: 10%x;
+display: inline-block;
+font-variant-caps:all-small-caps;
+text-align: left;
+background: #87CEFA;
+
+}
+figure{
+	text-align: center;
+	margin:1px;
+	border-radius: 50%;
+	padding: 1%;
+}
+header,section,ul{
+	
+	margin: 2%;
+	text-align: left;
+}
+
+p{
+	text-align: left;
+}
+h2{
+	line-height: 2%;
+}
